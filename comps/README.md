@@ -6,6 +6,12 @@ The following topics are covered in this project
 
 Button Theory
 
+Props Design
+
+Styling
+
+TailwindCSS
+
 ## Mastering the State Design Process
 
 ## Practicing Props and State Design
