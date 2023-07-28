@@ -1,27 +1,35 @@
 import React from "react";
 import Button from "./Button";
+import { GoBell } from "react-icons/go";
 
 const App = () => {
+  const handleClick = () => {
+    console.log("Clicked!");
+  };
+
   return (
     <div>
       <div>
-        <Button success rounded outline>
-          Click me!
+        <Button className="mb-5" onClick={handleClick} primary rounded>
+          <GoBell /> Primary
         </Button>
       </div>
       <div>
-        <Button warning outline>
-          Hello!
+        <Button secondary outline>
+          Secondary
         </Button>
       </div>
       <div>
-        <Button danger outline>
-          Go
+        <Button success rounded>
+          Success
         </Button>
       </div>
       <div>
-        <Button primary rounded outline>
-          Submit
+        <Button warning>Warning</Button>
+      </div>
+      <div>
+        <Button danger rounded outline>
+          Danger
         </Button>
       </div>
     </div>
