@@ -20,6 +20,8 @@ Passing props from the button component to the button element (...rest vs custom
 
 ## Mastering the State Design Process
 
+Project Organization
+
 ## Practicing Props and State Design
 
 ## Making Navigation Reusable
