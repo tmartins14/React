@@ -1,36 +1,23 @@
 import React from "react";
-import Button from "./components/Button";
-import { GoBell } from "react-icons/go";
-import Accordion from "./components/Accordion";
+import Dropdown from "./components/Dropdown";
+import { useState } from "react";
 
 const App = () => {
-  const items = [
-    {
-      id: "dsfgdf",
-      label: "Accordion Item 1",
-      content:
-        "Content for Accordion Item 1. This is the content of the first accordion item.",
-    },
-    {
-      id: "pokmk",
-      label: "Accordion Item 2",
-      content:
-        "Content for Accordion Item 2. This is the content of the second accordion item.",
-    },
-    {
-      id: "sgxdfhsg",
-      label: "Accordion Item 3",
-      content:
-        "Content for Accordion Item 3. This is the content of the third accordion item.",
-    },
-    {
-      id: "iojfgdfg",
-      label: "Accordion Item 4",
-      content:
-        "Content for Accordion Item 4. This is the content of the fourth accordion item.",
-    },
+  const [selected, setSelected] = useState(null);
+
+  const handleSelect = (option) => {
+    setSelected(option);
+  };
+
+  const options = [
+    { label: "Red", value: "red" },
+    { label: "Green", value: "green" },
+    { label: "Blue", value: "blue" },
   ];
-  return <Accordion items={items} />;
+
+  return (
+    <Dropdown options={options} selected={selected} onSelect={handleSelect} />
+  );
 };
 
 export default App;
