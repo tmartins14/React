@@ -30,4 +30,6 @@ State Design
 
 Dropdown component
 
+Creating a reusable Panel component
+
 ## Making Navigation Reusable
