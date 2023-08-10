@@ -32,4 +32,10 @@ Dropdown component
 
 Creating a reusable Panel component
 
+Event Capturing and Bubbling
+
+Capture: Find the event handler before it runs. Starting with the most parent comp and move down.
+Target: execute the event handler
+Bubble: Find the event handler at each immediate parent comp (takes longer without Capture phase)
+
 ## Making Navigation Reusable
