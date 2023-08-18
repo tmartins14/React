@@ -2,7 +2,7 @@
 
 The following topics are covered in this project
 
-## Custom Navigation and Routing Systems
+## Section 10: Custom Navigation and Routing Systems
 
 Button component
 
@@ -18,7 +18,7 @@ react-icons libary/libraries
 
 Passing props from the button component to the button element (...rest vs custom props)
 
-## Mastering the State Design Process
+## Section 11: Mastering the State Design Process
 
 Accordion component
 
@@ -26,7 +26,7 @@ Project Organization - pages vs. components
 
 State Design
 
-## Practicing Props and State Design
+## Section 12: Practicing Props and State Design
 
 Dropdown component
 
@@ -38,4 +38,14 @@ Capture: Find the event handler before it runs. Starting with the most parent co
 Target: execute the event handler
 Bubble: Find the event handler at each immediate parent comp (takes longer without Capture phase)
 
-## Making Navigation Reusable
+## Section 13: Making Navigation Reusable
+
+Creating a Router by scratch
+
+Navigating between pages
+
+Link Components
+
+Route Components
+
+## Section 14: Creating Portals with ReactDOM

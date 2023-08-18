@@ -1,11 +1,9 @@
 import React from "react";
 import Button from "../components/Button";
-import { GoBell, GoCloudDownload, GoDatabase } from "react-icons/go";
+import { GoBell, GoCloud, GoDatabase } from "react-icons/go";
 
 const ButtonPage = () => {
-  const handleClick = () => {
-    console.log("Clicked!");
-  };
+  const handleClick = () => {};
 
   return (
     <div>
@@ -22,7 +20,7 @@ const ButtonPage = () => {
       </div>
       <div>
         <Button success rounded>
-          <GoCloudDownload />
+          <GoCloud />
           Success
         </Button>
       </div>
