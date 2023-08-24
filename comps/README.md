@@ -49,3 +49,9 @@ Link Components
 Route Components
 
 ## Section 14: Creating Portals with ReactDOM
+
+Created a Modal component
+
+Using createPortal with ReactDOM
+
+## Section 15: Make a Feature-Full Data Table
