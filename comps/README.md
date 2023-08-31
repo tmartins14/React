@@ -55,3 +55,11 @@ Created a Modal component
 Using createPortal with ReactDOM
 
 ## Section 15: Make a Feature-Full Data Table
+
+Creating a datatable that is flexible for any data to be provided
+
+Providing data array of objects, config array of abject (each element represent a column with a label and a render function)
+
+Mapping over config for headers
+
+Nested mapping over data then config to render cells and rows
