@@ -63,3 +63,7 @@ Providing data array of objects, config array of abject (each element represent 
 Mapping over config for headers
 
 Nested mapping over data then config to render cells and rows
+
+## Section 16: Getting Clever with Data Sorting
+
+Adding a SortableTable component to take the config array and sort on the columns with a sortValue prop
