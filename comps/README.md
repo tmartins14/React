@@ -67,3 +67,7 @@ Nested mapping over data then config to render cells and rows
 ## Section 16: Getting Clever with Data Sorting
 
 Adding a SortableTable component to take the config array and sort on the columns with a sortValue prop
+
+## Section 17: Custom Hooks in Depth
+
+Refactoring some code into custom hooks to clean up components and improve reusability
