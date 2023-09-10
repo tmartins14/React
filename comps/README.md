@@ -71,3 +71,13 @@ Adding a SortableTable component to take the config array and sort on the column
 ## Section 17: Custom Hooks in Depth
 
 Refactoring some code into custom hooks to clean up components and improve reusability
+
+## Section 18: Into the World of Reducers
+
+Using the useReducer hook
+
+Managing multiple states using useReducer with the one dispatch function vs multiple useState instances using multiple setter function
+
+Action objects to manage changes to different states with various actions (action.type, action.payload, etc.)
+
+Using the Immer library to directly mutate state
