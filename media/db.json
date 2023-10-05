@@ -78,6 +78,16 @@
       "id": 10,
       "title": "Hiking trip",
       "userId": 14
+    },
+    {
+      "userId": 9,
+      "title": "Rustic Steel Shoes",
+      "id": 11
+    },
+    {
+      "userId": 9,
+      "title": "Generic Frozen Shoes",
+      "id": 12
     }
   ],
   "photos": []
