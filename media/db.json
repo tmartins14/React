@@ -1,93 +1,33 @@
 {
   "users": [
     {
-      "name": "Jackie Kihn",
-      "id": 9
+      "name": "Mrs. Jasmine Hegmann",
+      "id": 1
     },
     {
-      "name": "Rene Hilpert",
-      "id": 10
+      "name": "Paula Prosacco",
+      "id": 2
     },
     {
-      "name": "Johnnie Hauck-Prohaska",
-      "id": 11
-    },
-    {
-      "name": "Vernon Wintheiser",
-      "id": 12
-    },
-    {
-      "name": "Benny Ankunding",
-      "id": 13
-    },
-    {
-      "name": "Pat Hauck",
-      "id": 14
-    },
-    {
-      "name": "Myron Beatty",
-      "id": 15
-    },
-    {
-      "name": "Alice Simonis",
-      "id": 16
-    },
-    {
-      "name": "Roderick Reynolds",
-      "id": 17
-    },
-    {
-      "name": "Miss Mona Rutherford",
-      "id": 18
-    },
-    {
-      "name": "Clara Pouros",
-      "id": 19
-    },
-    {
-      "name": "Kristie Dicki",
-      "id": 20
-    },
-    {
-      "name": "Mrs. Silvia Ankunding-Wisozk",
-      "id": 21
-    },
-    {
-      "name": "Krista Goldner",
-      "id": 22
-    },
-    {
-      "name": "Luke Roberts",
-      "id": 23
-    },
-    {
-      "name": "Kristy Schuppe",
-      "id": 24
-    },
-    {
-      "name": "Maurice Erdman III",
-      "id": 25
-    },
-    {
-      "name": "Alvin Thompson",
-      "id": 26
+      "name": "Ms. Tami Wolf",
+      "id": 3
     }
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking trip",
-      "userId": 14
+      "userId": 1,
+      "title": "Rustic Steel Fish",
+      "id": 1
     },
     {
-      "userId": 9,
-      "title": "Rustic Steel Shoes",
-      "id": 11
+      "userId": 2,
+      "title": "Bespoke Fresh Pants",
+      "id": 2
     },
     {
-      "userId": 9,
-      "title": "Generic Frozen Shoes",
-      "id": 12
+      "userId": 3,
+      "title": "Sleek Plastic Shoes",
+      "id": 3
     }
   ],
   "photos": []
