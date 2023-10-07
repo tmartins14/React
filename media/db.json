@@ -28,6 +28,21 @@
       "userId": 3,
       "title": "Sleek Plastic Shoes",
       "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "Bespoke Fresh Hat",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "title": "Small Frozen Chips",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Cotton Salad",
+      "id": 6
     }
   ],
   "photos": []
