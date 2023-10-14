@@ -15,11 +15,6 @@
   ],
   "albums": [
     {
-      "userId": 1,
-      "title": "Rustic Steel Fish",
-      "id": 1
-    },
-    {
       "userId": 2,
       "title": "Bespoke Fresh Pants",
       "id": 2
@@ -41,9 +36,45 @@
     },
     {
       "userId": 1,
-      "title": "Intelligent Cotton Salad",
-      "id": 6
+      "title": "Practical Cotton Mouse",
+      "id": 7
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8723837323575296",
+      "id": 2
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8065130268983296",
+      "id": 4
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7307497064890368",
+      "id": 5
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5711312294248448",
+      "id": 6
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3787457826914304",
+      "id": 7
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4935276434554880",
+      "id": 8
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4333765394432000",
+      "id": 9
+    }
+  ]
 }
